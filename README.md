@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi There 👋
+
+I am a mechanical engineer who is passionate about developing mobile application. Some technologies I enjoy working with include Kotlin, Java, Firebase and Flutter.
+I have been improving myself on Object-Oriented Programming and the Android Application Process.
+I am motivated to mastering those skills and to enrich my knowledge with new one.
 
 <!--
 **BugrahanBal/BugrahanBal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
